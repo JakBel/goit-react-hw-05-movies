@@ -1,0 +1,1 @@
+{"version":3,"file":"static/css/906.b55101a5.chunk.css","mappings":"AAAA,gCACE,SAAc,CACd,eACF","sources":["pages/MoviesPage/MoviesPage.module.css"],"sourcesContent":[".listed:hover {\n  color: #ff0000;\n  font-weight: 700;\n}"],"names":[],"sourceRoot":""}
