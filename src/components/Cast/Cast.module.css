@@ -1,0 +1,8 @@
+.buttonStyles {
+  width: 200px;
+  height: 300px;
+  list-style: none;
+  display: inline-flex;
+  flex-direction: column;
+  margin: 30px 0;
+}
